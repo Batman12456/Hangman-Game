@@ -28,7 +28,7 @@ LICENSE:
 Credits:
             
             This repo was taken up as a problem statement(https://github.com/patrick-batman/Mosaic-24) 
-            for the MOSAIC(Deep Learning Competition in UDYAM'24, IIT BHU held by Electronics 
+            for MOSAIC(Deep Learning Competition) in UDYAM'24, IIT BHU held by Electronics 
             Engineering Society.
             The problem setter was Raunak Pandey(https://github.com/patrick-batman)
             

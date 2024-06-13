@@ -13,8 +13,7 @@ Description :
             3. The main code runs from the hangman.py file as it contains the driver 
                function named as hangman that takes the testing file and the guesser 
                function to guess the word and uses the guess.py file as the evaluator.
-            ![Hangman ss1](https://github.com/Batman12456/Hangman-Game/assets/107333265/a917b539-a5c1-49bc-bf4c-1953f1d7676c)
-            ![Hangman ss2](https://github.com/Batman12456/Hangman-Game/assets/107333265/14fbef47-b878-4c17-9234-d72875b01baf)
+            
 
 Requirements:
             

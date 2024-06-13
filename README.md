@@ -1,4 +1,4 @@
-HANGMAN GAME Using Statistical n-gram Model
+## HANGMAN GAME Using Statistical n-gram Model
 
 # Description
             
